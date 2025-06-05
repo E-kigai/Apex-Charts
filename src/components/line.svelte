@@ -27,14 +27,3 @@
     <div use:chart={options} />
 </div>
 
-<style>
-    .chart-container {
-        width: 100%;
-        max-width: 800px;
-        margin: 0 auto;
-    }
-
-    .chart-container > div {
-        min-height: 300px;
-    }
-</style>
